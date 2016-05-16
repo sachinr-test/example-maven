@@ -1,1 +1,1 @@
-# example-maven 1
+# example-maven
