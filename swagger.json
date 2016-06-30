@@ -1,0 +1,9 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "version" : "1",
+    "title" : "Test Swagger",
+    "description" : "I'm testing Swagger out"
+  },
+  "paths" : { }
+}
